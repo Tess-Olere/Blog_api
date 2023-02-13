@@ -1,0 +1,26 @@
+blog Api
+
+Register User - Model(email, name, password)
+1. Email, password and manevalidation
+2. hash users password
+3. generate token
+4. send response with the token
+
+login users
+1. Email amd password validation
+2. find user
+3. compare password(if corect -> generate token)
+
+generating proper jwt secret
+[allkeysgenerator.com]
+
+Authentication middleware
+[Authorization : Bearer token] - req.headers
+1. get token from req.headers
+2. varify token
+
+Error Handling
+
+CRUD OPERATIONS for blog
+1. Schema connection
+2. crud
