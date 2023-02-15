@@ -24,3 +24,7 @@ Error Handling
 CRUD OPERATIONS for blog
 1. Schema connection
 2. crud
+
+added things
+//allow update to user info
+handling errors for job schema
